@@ -1,20 +1,50 @@
-- 👋 Hi, I’m ASIF I AM A BOT CLONER AND DEPLOY
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Asif</h1>
+<h3 align="center">Telegram Bot Developer | Python Coder | H4ck Enthusiast</h3>
 
-<!---
-ASIFXQUEEN/ASIFXQUEEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=I+Build+Advanced+Telegram+Bots;Python+%7C+MongoDB+%7C+Heroku+Expert;I+Love+Automating+Things+%F0%9F%94%A5;Learning+New+Things+Everyday+%F0%9F%8C%90" alt="Typing SVG" />
+</p>
 
---->
+---
 
-<details>
-<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
-<br>
+### 💻 About Me
 
-<a href="https://t.me/ARAME9"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+- 🔭 I’m currently working on **Telegram bots with MongoDB, Pyrogram & AI**
+- 🌱 Learning **Advanced Python & Cybersecurity**
+- 🧠 Passionate about **Automation, Security tools & Bot Networking**
+- ⚡ Fun fact: I can deploy a bot blindfolded 😎
 
-</details>
+---
 
+### 🛠 Tech Stack
+
+- 👨‍💻 Languages: `Python`, `JavaScript`, `Bash`
+- 🤖 Telegram Bots: `Pyrogram`, `Telethon`, `AI Integration`
+- 🛢️ Databases: `MongoDB`, `Firebase`
+- ☁️ Deployment: `Heroku`, `Render`, `VPS`
+- 🔧 Tools: `Git`, `GitHub`, `Termux`, `Linux`, `NGROK`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asifxqueen&show_icons=true&theme=radical" alt="asif stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asifxqueen&theme=radical" alt="asif streak" />
+</p>
+
+---
+
+### 🧑‍💻 Let's Connect
+
+- 📬 Telegram: [@ashlf903](https://t.me/ashlf903)
+- 🔗 GitHub: [https://github.com/ASIFXQUEEN/ASIFXQUEEN)
+
+---
+
+### 👣 Quote
+
+> “Code like a ninja, deploy like a ghost. 🥷”  
+> — _Asif (aka xqueen)_
+
+---
